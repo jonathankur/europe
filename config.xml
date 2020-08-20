@@ -24,7 +24,7 @@
     <access origin="https://jkur.com.au" subdomains="true" />
 <preference name="android-minSdkVersion" value="27" />
 <preference name="android-targetSdkVersion" value="27" />
-   <preference name="phonegap-version" value="cli-8.0.0" />
+   <preference name="phonegap-version" value="cli-9.0.0" />
 
 
   <platform name="android">
