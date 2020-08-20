@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="au.com.europe" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="au.com.europe" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>EF App</name>
     <description>Goods In Module</description>
     <author email="jonkur909@gmail.com" href="https://jkur.com.au/">Jonathan Kur</author>
@@ -25,7 +25,6 @@
 <preference name="android-minSdkVersion" value="27" />
 <preference name="android-targetSdkVersion" value="27" />
    <preference name="phonegap-version" value="cli-8.0.0" />
-
 
 
   <platform name="android">
@@ -99,5 +98,4 @@
  
     <plugin name="cordova-plugin-file-transfer" spec="^1.6.3" />
     <plugin name="cordova-plugin-file" spec="^4.3.3" />
-   <engine name="android" spec="^6.4.0" />
 </widget>
